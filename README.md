@@ -6,7 +6,6 @@ Key Features:
 
 Real-time monitoring of multiple server metrics.
 User-friendly dashboard for easy visualization.
-Configurable alerts for system health.
 Extendable architecture for custom integrations.
 Built using .NET 8.0 for enhanced performance and scalability.
 Getting Started:
