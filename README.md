@@ -1,4 +1,4 @@
-# OpenMonitor: A Real-Time Server Monitoring Tool
+# OpenMonitor: A Real-Time Server Monitoring Tool v3
 
 OpenMonitor is an open-source server monitoring application built in C# targeting .NET 8.0, designed to help system administrators and DevOps engineers track server performance and health in real time. This modern, efficient tool leverages the latest features of .NET 8.0 to provide essential metrics such as CPU usage, memory consumption, disk activity, and network status, ensuring that you stay ahead of potential issues. Dive into OpenMonitor to enhance your system's reliability and performance!
 
